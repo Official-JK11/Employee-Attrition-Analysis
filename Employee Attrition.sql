@@ -56,12 +56,3 @@ WHERE attrition = 'Yes'
 GROUP BY BusinessTravel
 
 
--- COMMAND ----------
-
--- Insights we got
--- 1. Employees of age group 26-32 were leaving the organization.
--- 2. Employees from R&D Department were leaving the organization.
--- 3. 41.7% Employees with bachelors degree were leaving the organization.
--- 4. Majority of employees leaving the organizaiton mentioned low satisfaction towards working environment.
--- 5. Majority of employees leaving the organization travel rarely.
-
